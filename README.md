@@ -33,3 +33,7 @@ This is a fun and modern Rock Paper Scissors game I built using HTML, CSS, and J
 
 ---
 Feel free to use, change, or share this project!
+It is also hosted through this link if you want to take a look! 
+
+You can view it by clicking the link below.
+https://rock-paper-scissors-git-main-tyketelsen13s-projects.vercel.app/
