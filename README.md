@@ -28,7 +28,6 @@ This is a fun and modern Rock Paper Scissors game I built using HTML, CSS, and J
 
 ## Possible upgrades
 - Add animations or sounds for more excitement
-- Add more comments in the code
 - Make it even better for phones and tablets
 
 ---
